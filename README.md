@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Segs2y
-- 👀 I’m interested in ... python web development
+- 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ...python programming language
-- 💞️ I’m looking to collaborate on ...web developers
+- 💞️ I’m looking to collaborate on ...Web and App development
 - 📫 How to reach me ...fasholaoluwasegun@gmail.com
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ...i love coding and acquiring knowledge
